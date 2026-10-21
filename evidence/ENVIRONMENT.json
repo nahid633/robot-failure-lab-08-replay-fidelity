@@ -1,0 +1,9 @@
+{
+  "utc": "2026-10-21T19:05:00.396709+00:00",
+  "python": "3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]",
+  "platform": "Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+  "packages": "python3-matplotlib\t3.6.3-1ubuntu5\npython3-numpy\t1:1.26.4+ds-6ubuntu1\nros-jazzy-nav2-simple-commander\t1.3.12-1noble.20260615.151451\nros-jazzy-rclpy\t7.1.11-1noble.20260615.133206\nros-jazzy-sensor-msgs\t5.3.8-1noble.20260615.112429\n",
+  "package_query_exit": 0,
+  "vektor_commit": "d9e64ecc0db91a4c2572062d14d1a851a843b65b",
+  "network": "No ROS node/context initialized; callback method invoked via injected clock/publication ports. Domain/localhost vars defense in depth only."
+}

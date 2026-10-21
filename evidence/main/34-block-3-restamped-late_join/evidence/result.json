@@ -1,0 +1,612 @@
+{
+  "expected_packets": 118,
+  "actual_packets": 1,
+  "field_exact_packets": 1,
+  "field_match_fraction": 0.00847457627118644,
+  "differences": [
+    {
+      "input_seq": 303,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 304,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 304,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 305,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 305,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 306,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 306,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 307,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 307,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 308,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 308,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 309,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 309,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 310,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 310,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 311,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 311,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 312,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 312,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 313,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 313,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 314,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 314,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 315,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 315,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 316,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 316,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 317,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 317,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 318,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 318,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 319,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 319,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 320,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 320,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 321,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 321,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 322,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 322,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 323,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 323,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 324,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 324,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 325,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 325,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 326,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 326,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 327,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 327,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 328,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 328,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 329,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 329,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 330,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 330,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 331,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 331,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 332,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 332,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 333,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 333,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 334,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 334,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 335,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 335,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 336,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 336,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 337,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 337,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 338,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 338,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 339,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 339,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 340,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 340,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 341,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 341,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 342,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 342,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 343,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 343,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 344,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 344,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 345,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 345,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 346,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 346,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 347,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 347,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 348,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 348,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 349,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 349,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 350,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 350,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 351,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 351,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 352,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 352,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 353,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 353,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 354,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 354,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 355,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 355,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 356,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 356,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 357,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 357,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 358,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 358,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 359,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 359,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 360,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 360,
+      "branch": "obstacles",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 361,
+      "branch": "localization",
+      "kind": "missing"
+    },
+    {
+      "input_seq": 361,
+      "branch": "obstacles",
+      "kind": "missing"
+    }
+  ],
+  "cdr_byte_differences_on_paired_packets": 1,
+  "max_header_stamp_error_s": 0.0,
+  "logical_publication_time_max_abs_error_s": 0.0,
+  "logical_publication_time_p95_abs_error_s": 0.0,
+  "mode": "late_join",
+  "recording": "block-3-restamped",
+  "condition": "restamped",
+  "callback_exception": "Traceback (most recent call last):\n  File \"/mnt/c/Users/maxle/OneDrive/Documents/robotics-space/startup-kb/artifacts/robot-failure-lab-08/source/replay.py\", line 96, in run\n    original.Observer.scan(p,m)\n  File \"/mnt/c/Users/maxle/OneDrive/Documents/robotics-space/startup-kb/artifacts/robot-failure-lab-08/component/trial.py\", line 102, in scan\n    source=copy.deepcopy(self.cached[0]);origin=self.cached[1];origin_stamp=self.stamp(source)\n                         ~~~~~~~~~~~^^^\nTypeError: 'NoneType' object is not subscriptable\n",
+  "cache_audit": {
+    "expected_origin": 302,
+    "actual_origin": null,
+    "expected_hash": "a72ef617e915d937ea570ae7876420a3cf7a3dd77b7a3a2942106643873eb746",
+    "actual_hash": null
+  },
+  "input_callbacks_attempted": 1,
+  "runtime_wall_s": 0.7301766680000128,
+  "network_started": false,
+  "clock_semantics": "injected logical callback clock; no /clock publisher",
+  "accepted": false
+}

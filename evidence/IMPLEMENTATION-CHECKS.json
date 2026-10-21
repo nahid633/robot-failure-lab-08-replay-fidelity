@@ -1,0 +1,75 @@
+{
+  "utc": "2026-10-21T19:12:41.323320+00:00",
+  "comparator_tests": 7,
+  "development_attempts": 4,
+  "main_process_attempts": 36,
+  "main_outcome_retries": 0,
+  "all_36_independent_packet_metric_audits_pass": true,
+  "actual_archived_component_hashes_match": true,
+  "frozen_source_input_hashes_pass": true,
+  "prior_lab05_lab07_archive_hashes_unchanged": true,
+  "two_final_plots_visually_reviewed": true,
+  "kb_lint_pass": true,
+  "local_artifact_links_checked": 14,
+  "lint_line_ending_workaround": "Equivalent normalized temporary script; original script unchanged; failure and passing log retained.",
+  "local_links": [
+    {
+      "page": "wiki/analyses/replay-and-world-model-plan.md",
+      "target": "../../artifacts/robot-failure-lab-08/FINDINGS.md"
+    },
+    {
+      "page": "wiki/analyses/robot-failure-lab-experiment-menu.md",
+      "target": "../../artifacts/robot-failure-lab-08/FINDINGS.md"
+    },
+    {
+      "page": "wiki/analyses/robot-failure-lab-next-experiments-2026-10.md",
+      "target": "../../artifacts/robot-failure-lab-08/REPORT.md"
+    },
+    {
+      "page": "wiki/evidence/robot-failure-lab-lessons.md",
+      "target": "../../artifacts/robot-failure-lab-08/FINDINGS.md"
+    },
+    {
+      "page": "wiki/experiments/robot-failure-lab-08-replay-fidelity.md",
+      "target": "../../artifacts/robot-failure-lab-08/PROTOCOL.md"
+    },
+    {
+      "page": "wiki/experiments/robot-failure-lab-08-replay-fidelity.md",
+      "target": "../../artifacts/robot-failure-lab-08/FINDINGS.md"
+    },
+    {
+      "page": "wiki/experiments/robot-failure-lab-08-replay-fidelity.md",
+      "target": "../../artifacts/robot-failure-lab-08/REPORT.md"
+    },
+    {
+      "page": "wiki/experiments/robot-failure-lab-08-replay-fidelity.md",
+      "target": "../../artifacts/robot-failure-lab-08/ALL-REPLAYS.csv"
+    },
+    {
+      "page": "wiki/experiments/robot-failure-lab-08-replay-fidelity.md",
+      "target": "../../artifacts/robot-failure-lab-08/EVIDENCE-VALIDATION.json"
+    },
+    {
+      "page": "wiki/experiments/robot-failure-lab-08-replay-fidelity.md",
+      "target": "../../artifacts/robot-failure-lab-08/FROZEN-PROTOCOL.json"
+    },
+    {
+      "page": "wiki/experiments/robot-failure-lab-08-replay-fidelity.md",
+      "target": "../../artifacts/robot-failure-lab-08/README.md"
+    },
+    {
+      "page": "wiki/experiments/robot-failure-lab-08-replay-fidelity.md",
+      "target": "../../artifacts/robot-failure-lab-08/replay-comparison.png"
+    },
+    {
+      "page": "wiki/experiments/robot-failure-lab-08-replay-fidelity.md",
+      "target": "../../artifacts/robot-failure-lab-08/recorded-clock-provenance.png"
+    },
+    {
+      "page": "wiki/projects/vektor.md",
+      "target": "../../artifacts/robot-failure-lab-08/FINDINGS.md"
+    }
+  ],
+  "fresh_machine_reproduction": false,
+  "full_stack_or_physical_fidelity_tested": false
+}

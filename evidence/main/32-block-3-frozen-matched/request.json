@@ -1,0 +1,15 @@
+{
+  "index": 32,
+  "recording": "inputs/block-3-frozen",
+  "mode": "matched",
+  "command": [
+    "/usr/bin/python3",
+    "/mnt/c/Users/maxle/OneDrive/Documents/robotics-space/startup-kb/artifacts/robot-failure-lab-08/source/replay.py",
+    "/mnt/c/Users/maxle/OneDrive/Documents/robotics-space/startup-kb/artifacts/robot-failure-lab-08/inputs/block-3-frozen",
+    "/mnt/c/Users/maxle/OneDrive/Documents/robotics-space/startup-kb/artifacts/robot-failure-lab-08/component",
+    "matched",
+    "/mnt/c/Users/maxle/OneDrive/Documents/robotics-space/startup-kb/artifacts/robot-failure-lab-08/main/32-block-3-frozen-matched/evidence"
+  ],
+  "started_utc": "2026-10-21T19:06:32.029081+00:00",
+  "timeout_s": 30
+}

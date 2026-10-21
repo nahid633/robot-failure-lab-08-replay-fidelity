@@ -1,0 +1,170 @@
+[
+  {
+    "id": "block-1-fresh",
+    "source": "artifacts/robot-failure-lab-05/block-1-fresh",
+    "hashes": {
+      "FAULT_START.json": "a49503debed75a6ac4cd4d2e37e40be1754285b209190bdca3ceb77824533d44",
+      "effective-after.json": "4d45ab6ff10adfc10613f3cbdbf2c8b24883e5a9ab66ddf811363637b5ea31ed",
+      "effective-before.json": "4d45ab6ff10adfc10613f3cbdbf2c8b24883e5a9ab66ddf811363637b5ea31ed",
+      "published-scans.jsonl": "cd210b22ea3276c44b6e110635bc404be4957a710ee6eeb718dfdf8da38fcfe3",
+      "published.csv": "f15ceee5dcae3de662b82edea4f40203d23235a36f0088dcdb69f7ee1244503f",
+      "raw-scans.jsonl": "f95821739ffd10148fc438fde4788c4a6f8e8ef19be1c161381009fca3d0ade1",
+      "result.json": "6adef47b50f18f54ba5c49259d4e6930b589c8c28d315d175e8b94847161e3f4",
+      "scans.csv": "90c7c8a6ac1f3dda3ac9e7f689c6ae97fd0eba89fad3e6c5fea354d77fec9fa1"
+    }
+  },
+  {
+    "id": "block-1-missing",
+    "source": "artifacts/robot-failure-lab-05/block-1-missing",
+    "hashes": {
+      "FAULT_START.json": "be0da5b131ce2e702c9a6976a22d89ca9dc4377141f2687bff57134ce2ed5ca7",
+      "effective-after.json": "4d45ab6ff10adfc10613f3cbdbf2c8b24883e5a9ab66ddf811363637b5ea31ed",
+      "effective-before.json": "4d45ab6ff10adfc10613f3cbdbf2c8b24883e5a9ab66ddf811363637b5ea31ed",
+      "published-scans.jsonl": "7d266a52df7a43f61d418abca25e745368cc21afe3b279848b647895fc7280e7",
+      "published.csv": "1ba0caa1278e104ae9e09b73fa799adb3a5caa65c49f710836692a306cb3bf6e",
+      "raw-scans.jsonl": "eed11c3fe87bc3b718c15f13d671168a6e25d3de3115d7326b07cd4a27a3a7b8",
+      "result.json": "90682912a94d3994584750da8eebf663a01e16a3969224c8bc03d039d7f8ceb0",
+      "scans.csv": "15ffff5cbc361b144e0f0277f1acc278aa7ebb12958df7f656734e406db55974"
+    }
+  },
+  {
+    "id": "block-1-frozen",
+    "source": "artifacts/robot-failure-lab-05/block-1-frozen",
+    "hashes": {
+      "FAULT_START.json": "08fabd233c8761af9a532dc3d82cc6eae54bde3b40e18d558f4b7071a8aafc4c",
+      "effective-after.json": "4d45ab6ff10adfc10613f3cbdbf2c8b24883e5a9ab66ddf811363637b5ea31ed",
+      "effective-before.json": "4d45ab6ff10adfc10613f3cbdbf2c8b24883e5a9ab66ddf811363637b5ea31ed",
+      "published-scans.jsonl": "a2703b29982bb914d140c8da459ce21f928bdfef3f6ff13abf42e5e216ff4d06",
+      "published.csv": "577246d4dd143ea6401a3f6fb63aca5d83a3ca066e7139bee61657933146b124",
+      "raw-scans.jsonl": "3a3c47c354c5c48c741003de6b82f1363e3cf3182e967ec00ce94ff1814a37fe",
+      "result.json": "66e9117d3e488f2f342e8647cb963ad33e2bf3632476e988eee07121307f111e",
+      "scans.csv": "4a4832f09b22db61b950628cdb2a62e4b6ca1c39cf323027de79c51b4fc6272d"
+    }
+  },
+  {
+    "id": "block-1-restamped",
+    "source": "artifacts/robot-failure-lab-05/block-1-restamped",
+    "hashes": {
+      "FAULT_START.json": "22bdbb3f6162bed833ee958e1f0537ab3075f1e9bd782623e70a9dc679671c84",
+      "effective-after.json": "4d45ab6ff10adfc10613f3cbdbf2c8b24883e5a9ab66ddf811363637b5ea31ed",
+      "effective-before.json": "4d45ab6ff10adfc10613f3cbdbf2c8b24883e5a9ab66ddf811363637b5ea31ed",
+      "published-scans.jsonl": "0ee8d5d8f003b2334adeff40cd8c9a75bdac6f07c58e16970fac7d7aa3c3397b",
+      "published.csv": "74802c1ed76444831f332573670b65a129ff6b0cb480cd52c02a25177ef492cf",
+      "raw-scans.jsonl": "c46834e5fa95099658aa971355bd7f91d9d3f151db472d582783b2b907c9f8a8",
+      "result.json": "29962e16e1c344cbe553fd0e3a8fe78ef945714b715fc2cf654c433bf7a82ba5",
+      "scans.csv": "3b013360d2dba0c57bd9b59ebc435f4d98bb104095dd427a287b5de257005ba5"
+    }
+  },
+  {
+    "id": "block-2-fresh",
+    "source": "artifacts/robot-failure-lab-05/block-2-fresh",
+    "hashes": {
+      "FAULT_START.json": "96b42547977076fc382c745d8144939b5c960b678460d01567e4a33a8592bd44",
+      "effective-after.json": "4d45ab6ff10adfc10613f3cbdbf2c8b24883e5a9ab66ddf811363637b5ea31ed",
+      "effective-before.json": "4d45ab6ff10adfc10613f3cbdbf2c8b24883e5a9ab66ddf811363637b5ea31ed",
+      "published-scans.jsonl": "8bb73e7695e593c5c7634820c8c734482f8cc2cc22b39be2ff938dfc49752103",
+      "published.csv": "840e73800d75cd583f770492d2290ccf3d62c49d0022a57814f118e8a62361d1",
+      "raw-scans.jsonl": "89206024cf899aa8f414827177ef278f9844745e93a4bbb0cfd91b2bf5edf4b0",
+      "result.json": "84685cc21e10fb4901af33a895b4523bee08401c5ba91a62032eeb18c0cc4e4f",
+      "scans.csv": "780054773a5d3c4872a856cbffe2fc42359945390fd40292d65cf4bcb6f4f243"
+    }
+  },
+  {
+    "id": "block-2-missing",
+    "source": "artifacts/robot-failure-lab-05/block-2-missing",
+    "hashes": {
+      "FAULT_START.json": "88aa495af93fdcefd5a3be95f2a0d69816a8e7de21cb180fd3336e5970756865",
+      "effective-after.json": "4d45ab6ff10adfc10613f3cbdbf2c8b24883e5a9ab66ddf811363637b5ea31ed",
+      "effective-before.json": "4d45ab6ff10adfc10613f3cbdbf2c8b24883e5a9ab66ddf811363637b5ea31ed",
+      "published-scans.jsonl": "b4b5259f8efac28a97174d87015a61715a160b270589012647660d22e3e23595",
+      "published.csv": "210bc2cf6c703760dda64a1179054ae46c13ff973eed0e923ca57f6bf04f6322",
+      "raw-scans.jsonl": "270655d2c58545ca003a490c6752142ee695766da6f33332fcfc0b28606b3472",
+      "result.json": "912881abbbeb2d1a6d38a9ff5fa56e4f2573d5e6acf6f67a1cbe5a2c11da3f56",
+      "scans.csv": "ff836b36e93ea0a9444e66962448cbe8ac70bd3a10f2f13731230d57c959898e"
+    }
+  },
+  {
+    "id": "block-2-frozen",
+    "source": "artifacts/robot-failure-lab-05/block-2-frozen-attempt-2",
+    "hashes": {
+      "FAULT_START.json": "bf3b60a194f6a544e896023d6aaa9bbe1719904e315b91770d3ced444d931151",
+      "effective-after.json": "4d45ab6ff10adfc10613f3cbdbf2c8b24883e5a9ab66ddf811363637b5ea31ed",
+      "effective-before.json": "4d45ab6ff10adfc10613f3cbdbf2c8b24883e5a9ab66ddf811363637b5ea31ed",
+      "published-scans.jsonl": "507fb629a40707dec359ee6290fd140c485f6b44386ad4f9b3a0abe89fb966fa",
+      "published.csv": "bddb11a4e2fd87dd54f27ff0ece15b3bae0092bc7790b7e1cf304d2085f8bc72",
+      "raw-scans.jsonl": "9d4815d0451e095ddec6d7941933f3eba85ea56a3d02785684a0521ffab933a1",
+      "result.json": "e55c252a689e3f876e988cfa12003b2646f39d7cfce74c12178354732c09010c",
+      "scans.csv": "3bc5e02bc6b39073fd92e7e5da8e9e2e93b2f3a363a5360eae09ee1597d8ecb3"
+    }
+  },
+  {
+    "id": "block-2-restamped",
+    "source": "artifacts/robot-failure-lab-05/block-2-restamped",
+    "hashes": {
+      "FAULT_START.json": "8933da92b92113877c7bc365e2780a2e8dd60ea62285b0918c935cca40ba47ed",
+      "effective-after.json": "4d45ab6ff10adfc10613f3cbdbf2c8b24883e5a9ab66ddf811363637b5ea31ed",
+      "effective-before.json": "4d45ab6ff10adfc10613f3cbdbf2c8b24883e5a9ab66ddf811363637b5ea31ed",
+      "published-scans.jsonl": "65d06078a5ec59c4dede2a2bf6af68568f17ea3e9c3945b040ab047e041051a9",
+      "published.csv": "d04f1665f1212a23de4499500f43aec83ea3c83f75362def2a9634d5b9283525",
+      "raw-scans.jsonl": "2521cf8fc2806c142dfe1be505a7a066b2dfe02fede666053b2ca4b015a8f999",
+      "result.json": "286db1f488c1a31ac8fa963e1a221f2a096c48110a9c740ccc8fc7c7ca903718",
+      "scans.csv": "d3e0ad514ff5ae27c48860767a35eba184c76bf2c75df51976ae19e9319e0a6b"
+    }
+  },
+  {
+    "id": "block-3-fresh",
+    "source": "artifacts/robot-failure-lab-05/block-3-fresh",
+    "hashes": {
+      "FAULT_START.json": "118d87397b9081a31a8110d661a6d35c5fe3b2885f28fed0c9edfadbafa3e40a",
+      "effective-after.json": "4d45ab6ff10adfc10613f3cbdbf2c8b24883e5a9ab66ddf811363637b5ea31ed",
+      "effective-before.json": "4d45ab6ff10adfc10613f3cbdbf2c8b24883e5a9ab66ddf811363637b5ea31ed",
+      "published-scans.jsonl": "770fdb4cb4748d74d064d22a44b68fd7b066f4c105118a95272a0065f91b0a8b",
+      "published.csv": "03aec5d75990dc1c00ab7b17eb6ceab1e03dc6c4d15b7dc24ed54675db885908",
+      "raw-scans.jsonl": "2f36477e71dc6ac140afd2403294bb04515e7d0ddf2697bc00db66c10ad090bb",
+      "result.json": "b85ca3823b082a13ec22b698261045a2cbfb4ef1edf1f9e07be0c7d31b1a4940",
+      "scans.csv": "52828a0c3b26574542779f2343157d384f63b2bfe8320e32b21f433bb4caae26"
+    }
+  },
+  {
+    "id": "block-3-missing",
+    "source": "artifacts/robot-failure-lab-05/block-3-missing",
+    "hashes": {
+      "FAULT_START.json": "fcf0900d808c677d2c97c2d1261bb5a32a0b2fd003d938d1da1028667c58dba5",
+      "effective-after.json": "4d45ab6ff10adfc10613f3cbdbf2c8b24883e5a9ab66ddf811363637b5ea31ed",
+      "effective-before.json": "4d45ab6ff10adfc10613f3cbdbf2c8b24883e5a9ab66ddf811363637b5ea31ed",
+      "published-scans.jsonl": "cb7ccda1c90b08895affd0eb8cd329441cc43369c08b4e603bbb2806182a0c67",
+      "published.csv": "03c89738cadcd2cf47861f859dbcaa2f2353ca518213efe2627298460addca65",
+      "raw-scans.jsonl": "b87f17bfc1af9787357a15fc74efd64ffe2affe0b6228b494fdfe6ad8fca20d5",
+      "result.json": "28d994846703946286fc853c08cfca8466e789c5c7ef521c43149242bb0dc310",
+      "scans.csv": "3c3eee324486cf71ee03d7b7fa108a625541285995f563503b7cfb287f6259e6"
+    }
+  },
+  {
+    "id": "block-3-frozen",
+    "source": "artifacts/robot-failure-lab-05/block-3-frozen",
+    "hashes": {
+      "FAULT_START.json": "1e31f21877a7f900b329ff251e837daf0548a90e95b1f541b29f8e6ededb20c9",
+      "effective-after.json": "4d45ab6ff10adfc10613f3cbdbf2c8b24883e5a9ab66ddf811363637b5ea31ed",
+      "effective-before.json": "4d45ab6ff10adfc10613f3cbdbf2c8b24883e5a9ab66ddf811363637b5ea31ed",
+      "published-scans.jsonl": "ae0381044f31defbb7535ed91e297ddc7ffa93746eba6ae3711be0f4b0497efe",
+      "published.csv": "60429e809ba86f4bcd6f0ce4d4a1eb3dd6c5cc96d0d86f48a2e054bc6e70b110",
+      "raw-scans.jsonl": "678db6eebaea43896925bd73047fb04a933b4b5a53f20d4a69c79ee04932df87",
+      "result.json": "516207057436fe3f9b47e675baef169ffeb189c169b77f2506b12ed5ba167a58",
+      "scans.csv": "ee3af3804553739f32b83ba3ff721df975f04824a1ac46cc98fef057574c45e4"
+    }
+  },
+  {
+    "id": "block-3-restamped",
+    "source": "artifacts/robot-failure-lab-05/block-3-restamped",
+    "hashes": {
+      "FAULT_START.json": "3d9e6991633cad950916e46fe2a1d321055a70bd09f65c75dd9b01933220d8a3",
+      "effective-after.json": "4d45ab6ff10adfc10613f3cbdbf2c8b24883e5a9ab66ddf811363637b5ea31ed",
+      "effective-before.json": "4d45ab6ff10adfc10613f3cbdbf2c8b24883e5a9ab66ddf811363637b5ea31ed",
+      "published-scans.jsonl": "841d8f18add37aece1b83365e3bec340d2a4057bed5a1b667f519b3c0e08c9c0",
+      "published.csv": "d461d6b8c2e7c63a7de1ae490d194cc714f8474ea455e05c5f84066eea8a55dd",
+      "raw-scans.jsonl": "935c21b52d55dd324bd3733a7985ebd4ec767ec45868fa69467f3183489b7749",
+      "result.json": "978301d1a23c146a767d58fafc0ae1afb863230253094a3e4a2f37caa308201b",
+      "scans.csv": "7101db1c26d80d26baeaa2943774649d54c3e76f6380bd17e5776213a81d4500"
+    }
+  }
+]

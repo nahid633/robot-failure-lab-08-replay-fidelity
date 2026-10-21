@@ -1,0 +1,41 @@
+{
+  "matched": {
+    "accepted": 12,
+    "executions": 12,
+    "expected_packets": 8384,
+    "actual_packets": 8384,
+    "field_exact_packets": 8384,
+    "changed": 0,
+    "missing": 0,
+    "extra": 0,
+    "callback_exceptions": 0,
+    "cdr_byte_differences": 7258,
+    "max_logical_time_error_ms": 0.0
+  },
+  "header_clock": {
+    "accepted": 6,
+    "executions": 12,
+    "expected_packets": 8384,
+    "actual_packets": 8384,
+    "field_exact_packets": 8384,
+    "changed": 0,
+    "missing": 0,
+    "extra": 0,
+    "callback_exceptions": 0,
+    "cdr_byte_differences": 5882,
+    "max_logical_time_error_ms": 183.0000000000007
+  },
+  "late_join": {
+    "accepted": 6,
+    "executions": 12,
+    "expected_packets": 5290,
+    "actual_packets": 2628,
+    "field_exact_packets": 2628,
+    "changed": 0,
+    "missing": 2662,
+    "extra": 0,
+    "callback_exceptions": 6,
+    "cdr_byte_differences": 1941,
+    "max_logical_time_error_ms": 0.0
+  }
+}

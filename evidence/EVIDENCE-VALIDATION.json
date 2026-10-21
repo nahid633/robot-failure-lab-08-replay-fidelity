@@ -1,0 +1,297 @@
+{
+  "all_36_metrics_and_targets_pass": true,
+  "protocol_and_input_hashes_match": true,
+  "before_main_freeze_verified": true,
+  "all_process_starts_completed": true,
+  "all_output_orders_verified": true,
+  "cell_audits": [
+    {
+      "attempt": "01-block-1-fresh-matched",
+      "original_target_verified": true,
+      "independent_field_comparator": true,
+      "original_routing_packets_verified": 654,
+      "output_order_verified": true,
+      "metrics_verified": true
+    },
+    {
+      "attempt": "02-block-1-fresh-header_clock",
+      "original_target_verified": true,
+      "independent_field_comparator": true,
+      "original_routing_packets_verified": 654,
+      "output_order_verified": true,
+      "metrics_verified": true
+    },
+    {
+      "attempt": "03-block-1-fresh-late_join",
+      "original_target_verified": true,
+      "independent_field_comparator": true,
+      "original_routing_packets_verified": 378,
+      "output_order_verified": true,
+      "metrics_verified": true
+    },
+    {
+      "attempt": "04-block-1-missing-matched",
+      "original_target_verified": true,
+      "independent_field_comparator": true,
+      "original_routing_packets_verified": 736,
+      "output_order_verified": true,
+      "metrics_verified": true
+    },
+    {
+      "attempt": "05-block-1-missing-header_clock",
+      "original_target_verified": true,
+      "independent_field_comparator": true,
+      "original_routing_packets_verified": 736,
+      "output_order_verified": true,
+      "metrics_verified": true
+    },
+    {
+      "attempt": "06-block-1-missing-late_join",
+      "original_target_verified": true,
+      "independent_field_comparator": true,
+      "original_routing_packets_verified": 504,
+      "output_order_verified": true,
+      "metrics_verified": true
+    },
+    {
+      "attempt": "07-block-1-frozen-matched",
+      "original_target_verified": true,
+      "independent_field_comparator": true,
+      "original_routing_packets_verified": 726,
+      "output_order_verified": true,
+      "metrics_verified": true
+    },
+    {
+      "attempt": "08-block-1-frozen-header_clock",
+      "original_target_verified": true,
+      "independent_field_comparator": true,
+      "original_routing_packets_verified": 726,
+      "output_order_verified": true,
+      "metrics_verified": true
+    },
+    {
+      "attempt": "09-block-1-frozen-late_join",
+      "original_target_verified": true,
+      "independent_field_comparator": true,
+      "original_routing_packets_verified": 506,
+      "output_order_verified": true,
+      "metrics_verified": true
+    },
+    {
+      "attempt": "10-block-1-restamped-matched",
+      "original_target_verified": true,
+      "independent_field_comparator": true,
+      "original_routing_packets_verified": 714,
+      "output_order_verified": true,
+      "metrics_verified": true
+    },
+    {
+      "attempt": "11-block-1-restamped-header_clock",
+      "original_target_verified": true,
+      "independent_field_comparator": true,
+      "original_routing_packets_verified": 714,
+      "output_order_verified": true,
+      "metrics_verified": true
+    },
+    {
+      "attempt": "12-block-1-restamped-late_join",
+      "original_target_verified": true,
+      "independent_field_comparator": true,
+      "original_routing_packets_verified": 516,
+      "output_order_verified": true,
+      "metrics_verified": true
+    },
+    {
+      "attempt": "13-block-2-fresh-header_clock",
+      "original_target_verified": true,
+      "independent_field_comparator": true,
+      "original_routing_packets_verified": 726,
+      "output_order_verified": true,
+      "metrics_verified": true
+    },
+    {
+      "attempt": "14-block-2-fresh-late_join",
+      "original_target_verified": true,
+      "independent_field_comparator": true,
+      "original_routing_packets_verified": 458,
+      "output_order_verified": true,
+      "metrics_verified": true
+    },
+    {
+      "attempt": "15-block-2-fresh-matched",
+      "original_target_verified": true,
+      "independent_field_comparator": true,
+      "original_routing_packets_verified": 726,
+      "output_order_verified": true,
+      "metrics_verified": true
+    },
+    {
+      "attempt": "16-block-2-missing-header_clock",
+      "original_target_verified": true,
+      "independent_field_comparator": true,
+      "original_routing_packets_verified": 722,
+      "output_order_verified": true,
+      "metrics_verified": true
+    },
+    {
+      "attempt": "17-block-2-missing-late_join",
+      "original_target_verified": true,
+      "independent_field_comparator": true,
+      "original_routing_packets_verified": 510,
+      "output_order_verified": true,
+      "metrics_verified": true
+    },
+    {
+      "attempt": "18-block-2-missing-matched",
+      "original_target_verified": true,
+      "independent_field_comparator": true,
+      "original_routing_packets_verified": 722,
+      "output_order_verified": true,
+      "metrics_verified": true
+    },
+    {
+      "attempt": "19-block-2-frozen-header_clock",
+      "original_target_verified": true,
+      "independent_field_comparator": true,
+      "original_routing_packets_verified": 726,
+      "output_order_verified": true,
+      "metrics_verified": true
+    },
+    {
+      "attempt": "20-block-2-frozen-late_join",
+      "original_target_verified": true,
+      "independent_field_comparator": true,
+      "original_routing_packets_verified": 494,
+      "output_order_verified": true,
+      "metrics_verified": true
+    },
+    {
+      "attempt": "21-block-2-frozen-matched",
+      "original_target_verified": true,
+      "independent_field_comparator": true,
+      "original_routing_packets_verified": 726,
+      "output_order_verified": true,
+      "metrics_verified": true
+    },
+    {
+      "attempt": "22-block-2-restamped-header_clock",
+      "original_target_verified": true,
+      "independent_field_comparator": true,
+      "original_routing_packets_verified": 726,
+      "output_order_verified": true,
+      "metrics_verified": true
+    },
+    {
+      "attempt": "23-block-2-restamped-late_join",
+      "original_target_verified": true,
+      "independent_field_comparator": true,
+      "original_routing_packets_verified": 516,
+      "output_order_verified": true,
+      "metrics_verified": true
+    },
+    {
+      "attempt": "24-block-2-restamped-matched",
+      "original_target_verified": true,
+      "independent_field_comparator": true,
+      "original_routing_packets_verified": 726,
+      "output_order_verified": true,
+      "metrics_verified": true
+    },
+    {
+      "attempt": "25-block-3-fresh-late_join",
+      "original_target_verified": true,
+      "independent_field_comparator": true,
+      "original_routing_packets_verified": 264,
+      "output_order_verified": true,
+      "metrics_verified": true
+    },
+    {
+      "attempt": "26-block-3-fresh-matched",
+      "original_target_verified": true,
+      "independent_field_comparator": true,
+      "original_routing_packets_verified": 476,
+      "output_order_verified": true,
+      "metrics_verified": true
+    },
+    {
+      "attempt": "27-block-3-fresh-header_clock",
+      "original_target_verified": true,
+      "independent_field_comparator": true,
+      "original_routing_packets_verified": 476,
+      "output_order_verified": true,
+      "metrics_verified": true
+    },
+    {
+      "attempt": "28-block-3-missing-late_join",
+      "original_target_verified": true,
+      "independent_field_comparator": true,
+      "original_routing_packets_verified": 508,
+      "output_order_verified": true,
+      "metrics_verified": true
+    },
+    {
+      "attempt": "29-block-3-missing-matched",
+      "original_target_verified": true,
+      "independent_field_comparator": true,
+      "original_routing_packets_verified": 738,
+      "output_order_verified": true,
+      "metrics_verified": true
+    },
+    {
+      "attempt": "30-block-3-missing-header_clock",
+      "original_target_verified": true,
+      "independent_field_comparator": true,
+      "original_routing_packets_verified": 738,
+      "output_order_verified": true,
+      "metrics_verified": true
+    },
+    {
+      "attempt": "31-block-3-frozen-late_join",
+      "original_target_verified": true,
+      "independent_field_comparator": true,
+      "original_routing_packets_verified": 518,
+      "output_order_verified": true,
+      "metrics_verified": true
+    },
+    {
+      "attempt": "32-block-3-frozen-matched",
+      "original_target_verified": true,
+      "independent_field_comparator": true,
+      "original_routing_packets_verified": 716,
+      "output_order_verified": true,
+      "metrics_verified": true
+    },
+    {
+      "attempt": "33-block-3-frozen-header_clock",
+      "original_target_verified": true,
+      "independent_field_comparator": true,
+      "original_routing_packets_verified": 716,
+      "output_order_verified": true,
+      "metrics_verified": true
+    },
+    {
+      "attempt": "34-block-3-restamped-late_join",
+      "original_target_verified": true,
+      "independent_field_comparator": true,
+      "original_routing_packets_verified": 118,
+      "output_order_verified": true,
+      "metrics_verified": true
+    },
+    {
+      "attempt": "35-block-3-restamped-matched",
+      "original_target_verified": true,
+      "independent_field_comparator": true,
+      "original_routing_packets_verified": 724,
+      "output_order_verified": true,
+      "metrics_verified": true
+    },
+    {
+      "attempt": "36-block-3-restamped-header_clock",
+      "original_target_verified": true,
+      "independent_field_comparator": true,
+      "original_routing_packets_verified": 724,
+      "output_order_verified": true,
+      "metrics_verified": true
+    }
+  ]
+}

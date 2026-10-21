@@ -1,0 +1,156 @@
+{
+  "condition": "restamped",
+  "start_sim_s": 17.04,
+  "end_sim_s": 77.091,
+  "elapsed_sim_s": 60.050999999999995,
+  "elapsed_wall_s": 62.38677113799895,
+  "window_start": 27.6,
+  "appearance": 27.828,
+  "obstacle_request_time": 27.801,
+  "obstacle_service_success": true,
+  "observation_end": 79.203,
+  "outcome": "timeout",
+  "end_event": "deadline",
+  "cancel_requested": true,
+  "goal_accepted": true,
+  "terminal_action_status": 5,
+  "action_error_code": 105,
+  "recoveries": 5,
+  "metrics": {
+    "min_sampled_envelope_clearance_m": 0.0,
+    "envelope_overlap_samples": 1409,
+    "stop_after_appearance_s": 2.304000000000002,
+    "path_to_first_stop_m": 0.36714453162101246,
+    "world_samples_after_appearance": 1428,
+    "window_min_clearance_m": 0.0
+  },
+  "endpoint": {
+    "terminal_world_error_m": 1.8261920823599165,
+    "terminal_localized_error_m": 1.2924144386718655,
+    "terminal_world_stamp": 77.076,
+    "terminal_localized_stamp": 77.076,
+    "terminal_world_x": -0.82504830677867,
+    "terminal_world_y": 0.564623522020684,
+    "terminal_world_yaw_error_rad": 0.040422159428496036,
+    "settled_world_error_max_m": 1.8261920823599165,
+    "settled_world_error_mean_m": 1.8261920823599165,
+    "settled_position_pass": false,
+    "world_path_length_m": 2.0413879302358,
+    "settled_samples": 14
+  },
+  "graph": {
+    "/scan": {
+      "publishers": [
+        "ros_gz_bridge"
+      ],
+      "subscribers": [
+        "failure_lab_05_observer"
+      ]
+    },
+    "/rfl05/localization_scan": {
+      "publishers": [
+        "failure_lab_05_observer"
+      ],
+      "subscribers": [
+        "failure_lab_05_observer",
+        "amcl"
+      ]
+    },
+    "/rfl05/obstacle_scan": {
+      "publishers": [
+        "failure_lab_05_observer"
+      ],
+      "subscribers": [
+        "failure_lab_05_observer",
+        "local_costmap",
+        "global_costmap",
+        "collision_monitor"
+      ]
+    },
+    "/rfl05/truth": {
+      "publishers": [
+        "failure_lab_05_instrumentation_bridge"
+      ],
+      "subscribers": [
+        "failure_lab_05_observer"
+      ]
+    },
+    "/rfl05/obstacle_pose": {
+      "publishers": [
+        "failure_lab_05_instrumentation_bridge"
+      ],
+      "subscribers": [
+        "failure_lab_05_observer"
+      ]
+    },
+    "/rfl05/contacts": {
+      "publishers": [
+        "failure_lab_05_instrumentation_bridge"
+      ],
+      "subscribers": [
+        "failure_lab_05_observer"
+      ]
+    }
+  },
+  "graph_end": {
+    "/scan": {
+      "publishers": [
+        "ros_gz_bridge"
+      ],
+      "subscribers": [
+        "failure_lab_05_observer"
+      ]
+    },
+    "/rfl05/localization_scan": {
+      "publishers": [
+        "failure_lab_05_observer"
+      ],
+      "subscribers": [
+        "failure_lab_05_observer",
+        "amcl"
+      ]
+    },
+    "/rfl05/obstacle_scan": {
+      "publishers": [
+        "failure_lab_05_observer"
+      ],
+      "subscribers": [
+        "failure_lab_05_observer",
+        "local_costmap",
+        "global_costmap",
+        "collision_monitor"
+      ]
+    },
+    "/rfl05/truth": {
+      "publishers": [
+        "failure_lab_05_instrumentation_bridge"
+      ],
+      "subscribers": [
+        "failure_lab_05_observer"
+      ]
+    },
+    "/rfl05/obstacle_pose": {
+      "publishers": [
+        "failure_lab_05_instrumentation_bridge"
+      ],
+      "subscribers": [
+        "failure_lab_05_observer"
+      ]
+    },
+    "/rfl05/contacts": {
+      "publishers": [
+        "failure_lab_05_instrumentation_bridge"
+      ],
+      "subscribers": [
+        "failure_lab_05_observer"
+      ]
+    }
+  },
+  "sensor_offset": [
+    -0.064,
+    0.0,
+    0.0
+  ],
+  "contact_messages": 2766,
+  "robot_contact_messages": 2766
+}

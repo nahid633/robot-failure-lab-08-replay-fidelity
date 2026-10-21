@@ -1,0 +1,19 @@
+{
+  "index": 22,
+  "recording": "inputs/block-2-restamped",
+  "mode": "header_clock",
+  "command": [
+    "/usr/bin/python3",
+    "/mnt/c/Users/maxle/OneDrive/Documents/robotics-space/startup-kb/artifacts/robot-failure-lab-08/source/replay.py",
+    "/mnt/c/Users/maxle/OneDrive/Documents/robotics-space/startup-kb/artifacts/robot-failure-lab-08/inputs/block-2-restamped",
+    "/mnt/c/Users/maxle/OneDrive/Documents/robotics-space/startup-kb/artifacts/robot-failure-lab-08/component",
+    "header_clock",
+    "/mnt/c/Users/maxle/OneDrive/Documents/robotics-space/startup-kb/artifacts/robot-failure-lab-08/main/22-block-2-restamped-header_clock/evidence"
+  ],
+  "started_utc": "2026-10-21T19:06:14.467347+00:00",
+  "timeout_s": 30,
+  "exit_code": 0,
+  "status": "completed",
+  "finished_utc": "2026-10-21T19:06:15.591324+00:00",
+  "elapsed_wall_s": 1.120053830000188
+}

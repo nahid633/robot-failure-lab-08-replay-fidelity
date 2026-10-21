@@ -1,0 +1,26 @@
+{
+  "expected_packets": 734,
+  "actual_packets": 734,
+  "field_exact_packets": 734,
+  "field_match_fraction": 1.0,
+  "differences": [],
+  "cdr_byte_differences_on_paired_packets": 476,
+  "max_header_stamp_error_s": 0.0,
+  "logical_publication_time_max_abs_error_s": 0.0,
+  "logical_publication_time_p95_abs_error_s": 0.0,
+  "mode": "matched",
+  "recording": "block-0-restamped",
+  "condition": "restamped",
+  "callback_exception": null,
+  "cache_audit": {
+    "expected_origin": 309,
+    "actual_origin": 309,
+    "expected_hash": "b3b393b57216a2c58cf55174d905967a336b2c4c40a59607d7e7656bec7be3b6",
+    "actual_hash": "b3b393b57216a2c58cf55174d905967a336b2c4c40a59607d7e7656bec7be3b6"
+  },
+  "input_callbacks_attempted": 367,
+  "runtime_wall_s": 0.6600095819999297,
+  "network_started": false,
+  "clock_semantics": "injected logical callback clock; no /clock publisher",
+  "accepted": true
+}

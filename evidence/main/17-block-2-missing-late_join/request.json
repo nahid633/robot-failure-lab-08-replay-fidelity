@@ -1,0 +1,15 @@
+{
+  "index": 17,
+  "recording": "inputs/block-2-missing",
+  "mode": "late_join",
+  "command": [
+    "/usr/bin/python3",
+    "/mnt/c/Users/maxle/OneDrive/Documents/robotics-space/startup-kb/artifacts/robot-failure-lab-08/source/replay.py",
+    "/mnt/c/Users/maxle/OneDrive/Documents/robotics-space/startup-kb/artifacts/robot-failure-lab-08/inputs/block-2-missing",
+    "/mnt/c/Users/maxle/OneDrive/Documents/robotics-space/startup-kb/artifacts/robot-failure-lab-08/component",
+    "late_join",
+    "/mnt/c/Users/maxle/OneDrive/Documents/robotics-space/startup-kb/artifacts/robot-failure-lab-08/main/17-block-2-missing-late_join/evidence"
+  ],
+  "started_utc": "2026-10-21T19:06:08.938330+00:00",
+  "timeout_s": 30
+}

@@ -1,0 +1,78 @@
+[
+  {
+    "index": 1,
+    "recording": "development-inputs/block-0-fresh",
+    "mode": "matched",
+    "command": [
+      "/usr/bin/python3",
+      "/mnt/c/Users/maxle/OneDrive/Documents/robotics-space/startup-kb/artifacts/robot-failure-lab-08/development-source/replay.py",
+      "/mnt/c/Users/maxle/OneDrive/Documents/robotics-space/startup-kb/artifacts/robot-failure-lab-08/development-inputs/block-0-fresh",
+      "/mnt/c/Users/maxle/OneDrive/Documents/robotics-space/startup-kb/artifacts/robot-failure-lab-08/component",
+      "matched",
+      "/mnt/c/Users/maxle/OneDrive/Documents/robotics-space/startup-kb/artifacts/robot-failure-lab-08/development/01-block-0-fresh-matched/evidence"
+    ],
+    "started_utc": "2026-10-21T19:05:01.095983+00:00",
+    "timeout_s": 30,
+    "exit_code": 0,
+    "status": "completed",
+    "finished_utc": "2026-10-21T19:05:02.422565+00:00",
+    "elapsed_wall_s": 1.3219411430000036
+  },
+  {
+    "index": 2,
+    "recording": "development-inputs/block-0-missing",
+    "mode": "matched",
+    "command": [
+      "/usr/bin/python3",
+      "/mnt/c/Users/maxle/OneDrive/Documents/robotics-space/startup-kb/artifacts/robot-failure-lab-08/development-source/replay.py",
+      "/mnt/c/Users/maxle/OneDrive/Documents/robotics-space/startup-kb/artifacts/robot-failure-lab-08/development-inputs/block-0-missing",
+      "/mnt/c/Users/maxle/OneDrive/Documents/robotics-space/startup-kb/artifacts/robot-failure-lab-08/component",
+      "matched",
+      "/mnt/c/Users/maxle/OneDrive/Documents/robotics-space/startup-kb/artifacts/robot-failure-lab-08/development/02-block-0-missing-matched/evidence"
+    ],
+    "started_utc": "2026-10-21T19:05:02.433917+00:00",
+    "timeout_s": 30,
+    "exit_code": 0,
+    "status": "completed",
+    "finished_utc": "2026-10-21T19:05:03.708444+00:00",
+    "elapsed_wall_s": 1.2706498469999588
+  },
+  {
+    "index": 3,
+    "recording": "development-inputs/block-0-frozen",
+    "mode": "matched",
+    "command": [
+      "/usr/bin/python3",
+      "/mnt/c/Users/maxle/OneDrive/Documents/robotics-space/startup-kb/artifacts/robot-failure-lab-08/development-source/replay.py",
+      "/mnt/c/Users/maxle/OneDrive/Documents/robotics-space/startup-kb/artifacts/robot-failure-lab-08/development-inputs/block-0-frozen",
+      "/mnt/c/Users/maxle/OneDrive/Documents/robotics-space/startup-kb/artifacts/robot-failure-lab-08/component",
+      "matched",
+      "/mnt/c/Users/maxle/OneDrive/Documents/robotics-space/startup-kb/artifacts/robot-failure-lab-08/development/03-block-0-frozen-matched/evidence"
+    ],
+    "started_utc": "2026-10-21T19:05:03.719904+00:00",
+    "timeout_s": 30,
+    "exit_code": 0,
+    "status": "completed",
+    "finished_utc": "2026-10-21T19:05:04.894085+00:00",
+    "elapsed_wall_s": 1.1699780819999432
+  },
+  {
+    "index": 4,
+    "recording": "development-inputs/block-0-restamped",
+    "mode": "matched",
+    "command": [
+      "/usr/bin/python3",
+      "/mnt/c/Users/maxle/OneDrive/Documents/robotics-space/startup-kb/artifacts/robot-failure-lab-08/development-source/replay.py",
+      "/mnt/c/Users/maxle/OneDrive/Documents/robotics-space/startup-kb/artifacts/robot-failure-lab-08/development-inputs/block-0-restamped",
+      "/mnt/c/Users/maxle/OneDrive/Documents/robotics-space/startup-kb/artifacts/robot-failure-lab-08/component",
+      "matched",
+      "/mnt/c/Users/maxle/OneDrive/Documents/robotics-space/startup-kb/artifacts/robot-failure-lab-08/development/04-block-0-restamped-matched/evidence"
+    ],
+    "started_utc": "2026-10-21T19:05:04.906098+00:00",
+    "timeout_s": 30,
+    "exit_code": 0,
+    "status": "completed",
+    "finished_utc": "2026-10-21T19:05:05.980233+00:00",
+    "elapsed_wall_s": 1.0701516300000549
+  }
+]

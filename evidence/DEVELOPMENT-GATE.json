@@ -1,0 +1,7 @@
+{
+  "attempts": 4,
+  "bounded_budget": 6,
+  "tests_passed": true,
+  "matched_passed": 4,
+  "gate_passed": true
+}
